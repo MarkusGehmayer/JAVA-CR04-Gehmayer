@@ -1,0 +1,24 @@
+Pfeffer
+1 Stueck
+Schwarzer Pfeffer verleiht Ihren Speisen eine pikante Schärfe, besonders wenn er länger mitgekocht wird.
+Instead: 3.49
+Action price: 2.97
+
+Schafmilchkaese
+200 Gramm Packung
+Frisch vom Bio-Schaf
+Instead: 2.59
+Action price: 1.99
+
+Voeslauer
+1.5 Liter Flasche
+Spritziges Voeslauer Mineralwasser
+Instead: 0.75
+Action price: 0.49
+
+Zucker
+500 Gramm Packung
+Natürliches Gelieren wird durch Apfelpektin unterstützt, welches im richtigen Verhältnis mit Zitronensäure und Kristallzucker abgemischt wurde.
+Instead: 1.39
+Action price: 4.0
+
